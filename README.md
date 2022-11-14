@@ -64,3 +64,4 @@ Successfully rebased and updated refs/heads/merge-conflict.
 Nice job!! You've walked thru the process of dealing with a merge conlict. You can apply this process to all merges and the only difference will be that step 7 may have more lines of code or files to be resolved.
 
 ### Bernie Durfee
+### Space Ghost
